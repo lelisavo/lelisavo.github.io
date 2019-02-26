@@ -1,0 +1,97 @@
+title = "SOFAR Acoustics"
+baseURL = "https://www.example.com"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+[menu]
+
+  [[menu.header]]
+    weight = 3
+    name = "Products and Services"
+    url = "/capabilities"
+    identifier = "capabilities"
+  [[menu.header]]
+    weight = 2
+    name = "About"
+    url = "/about"
+  [[menu.header]]
+    weight = 4
+    name = "Career"
+    url = "/career"
+  [[menu.header]]
+    weight = 5
+    name = "Contact"
+    url = "/contact"
+  [[menu.header]]
+    weight = 6
+    name = "Partners and Investors"
+    url = "/partners"
+
+  [[menu.footer]]
+    weight = 1
+    name = "About"
+    url = "/about"
+  [[menu.footer]]
+    weight = 2
+    name = "Products and Services"
+    url = "/capabilities"
+  [[menu.footer]]
+    weight = 3
+    name = "Career"
+    url = "/career"
+  [[menu.footer]]
+    weight = 5
+    name = "Contact"
+    url = "/contact"
+  [[menu.footer]]
+    weight = 6
+    name = "Partners and Investors"
+    url = "/partners"
+
+# The site's parameters
+[params]
+
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+
+  dateFormat = "6 January 2006"
+
+  home = "Home"
+
+  [params.slider]
+    enable = true
+    title = "SOFAR Acoustics, LLC"
+    subtitle = "A research and development firm focused on innovative solutions that combine science and advanced technology"
+
+  [params.wrapper]
+    enable = true
+    title = "Who We Are"
+    italic = "Headquartered in the greater Boston, Massachusetts area, SOFAR Acoustics was founded by Dr. Irena Lucifredi in 2010. Our facilities are comprised of over 2,000 sq. ft. of office and lab space dedicated to  computational and instrumentation  prototyping. We maintain a diverse team of acoustic and software engineers continuously motivated by innovative research and development challenges."
+    paragraph = "SOFAR Acoustics, LLC is a research and development consulting company focused on creating innovative solutions that combine science and advanced technology. We provide products and services in two major areas of specialization: acoustics and information technology. In the area of acoustics we offer scientific and engineering solutions in underwater acoustics, structural  dynamics and vibration, ocean-seismo acoustics, signal processing, and data fusion. This work is often based on integrating science and engineering with our information technology prowess in distributed sensor networks, embedded linux systems, and cloud computing applications. Backed by an established record of our professional capabilities in both research industry and academic settings, we provide R & D solutions for government sponsors such as the Office of Naval Research (ONR) and the  Naval Sea Systems Command (NAVSEA), as well as for clients in academia and industry."
+
+  [params.feature]
+    enable = true
+    title = "Mission Statement"
+    content = "A synergy of acoustic, seismic, and information technology provides the most important means of communication, navigation, and imaging below the sea surface. With a goal to rapidly develop innovative approaches to advanced R & D challenges,  SOFAR Acoustics is committed to gaining insight into the physical mechanisms taking place and creating novel, comprehensive systems solutions through state of the art engineering methods and practices."
+    [params.feature.button]
+      caption = "View Products and Services"
+      url = "/capabilities"
+
+  [params.contact]
+    enable = true
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+     [params.contact.box]
+      address = "711 Atlantic Ave, Boston, MA"
+      email = "Email: contact@sofaracoustics.com"
+      phone = "Phone: +1 617-286-2732"
+    [params.contact.gmaps]
+		title = "Meet us in person"
+

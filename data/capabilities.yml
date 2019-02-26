@@ -1,0 +1,22 @@
+enable: true
+title: Our Capabilities
+services:
+
+  - name: Sonar System Design and Analysis
+    image: cap-sonar.png
+    height: 250
+    width: 350
+    text: >
+      Our members have experience in developing computationally efficient reverberation and signal excess models for multi-static active sonar configurations related to diver detection, harbor security applications, and marine mammal detection. They have also worked on aspects of innovative sonar systems design, including careful examination of parameters such as detection range, polar/ azimuthal coverage, source/receiver properties, as well as on beamforming of various array geometries.                        
+  - name: Signal Processing 
+    image: cap-signal.png
+    height: 
+    width: 
+    text: >
+      At SOAFR Acoustics, we apply our knowledge and experience in detection, tracking, classification, and  data fusion to provide a variety of signal processing services for sonar and radar systems to locate, identify,  and track often hardly detectable targets in noise and clutter environments. Our signal processing expertise range from applications related to buried mine identification, through diver and marine mammal tracking and classification, to methane hydrate and oil reservoir detection and characterization. Data processing capabilities based on time of arrival, time-frequency, and array processing methods are used to extract properties of targets of interest. The automated classification algorithms  used to identify returns belonging to  different target classes are developed based on target feature extraction followed by statistical, rule-based, or neural network classification methods. Further, for multi sensor applications, data integration from disparate or similar sets of sensors is achieved by developing math-based fusion algorithms that take advantage of various physical capabilities of sensors as well as of different quality of data to enable long-range integration of tracks and high fidelity identification.
+  - name: Experimentation 
+    image: cap-exp.png
+    height:
+    width:
+    text: >
+      SOFAR Acoustics also provides know-how related to planning and executing acoustic experiments. Our members have been involved in a number of underwater acoustic tests and experiments related to diver and marine mammal detection and tracking in aggressive acoustic environments, active sonar design testing, and buried mine detection and classification in shallow water using automated underwater vehicles (AUVs).

@@ -1,0 +1,25 @@
+enable: true
+title: About Us
+subtitle: >
+  SOFAR Acoustics, LLC is a research and development consulting company focused on creating innovative solutions that combine science and advanced technology. We provide services in two major areas of specialization: acoustics and information technology. In the area of acoustics we offer scientific and engineering solutions in underwater acoustics, structural  dynamics and vibration, ocean-seismo acoustics, signal processing, and data fusion. This work is often based on integrating science and engineering with our information technology prowess in distributed sensor networks, embedded linux systems, and cloud computing applications. Backed by an established record of our professional capabilities in both research industry and academic settings, we provide R & D solutions for government sponsors such as the Office of Naval Research (ONR) and the  Naval Sea Systems Command (NAVSEA), as well as for clients in the academia and the industry. 
+
+bizeng: 
+  - name: Lisa Vo
+    title: Engineering
+    image: lisa.png
+    height: 150
+    text: >
+      Lisa is a senior at Harvard concentrating in Computer Science with an interest in data privacy and ethics of AI. She most recently worked at Microsoft as a software engineering intern, and in the upcoming months will be at Palantir Technologies. She calls San Diego home, loves hiking, and misses her dog. 
+  - name: Brian Lai 
+    title: Engineering
+    height: 150
+    image: brian.jpg
+    text: >
+      Brian is a senior at Harvard studying Physics and Economics. Raised in an immigrant home outside Boston and as a first-generation college student, Brian pursues his passions in the intersections of business, government and technology. He enjoys an active lifestyle from extensive travelling, to salsa dancing to club boxing.
+  - name: Jack Nolan
+    title: Business
+    height: 0
+    image: pixel.png
+    text: >
+      Jack is a senior at Harvard College studying economics. 
+  

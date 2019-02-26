@@ -1,0 +1,24 @@
+enable: true
+title: Newsroom
+paragraph: >
+  Where we've been and what we've been up to 
+
+news:
+  - text: >
+      SOFAR Acoustics participates in Operation GRATITUDE in support of our Troops.
+    date: November 2018
+  - text: >
+      SOFAR Acoustics attends SBIR Road Tour, Manchester, NH.
+    date: August 2018
+  - text: >
+      SOFAR Acoustics attends National Small Business Contracting Summit, Charleston, SC.
+    date: June 2018
+  - text: >
+      SOFAR Acoustics attends the Harvard Business School Entrepreneurship Conference, Cambridge MA.
+    date: March 2018
+  - text: >
+      SOFAR Acoustics attends the National SBIR Conference.
+    date: October 2017
+  - text: >
+      Dr. Irena Lucifredi speaks at the Acoustical Society of America Conference, Boston MA.
+    date: June 2017
